@@ -6,7 +6,7 @@ This exporter uses Dbus interface to get the metrics.
 ## Installation
 You can build the latest version using Go v1.11+ via `go get`:
 ```
-go get -u github.com/Gandi/ganesha_exporter
+go get -u github.com/handrea2009/ganesha_exporter
 ```
 
 ## Usage
