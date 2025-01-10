@@ -1,4 +1,4 @@
-module github.com/handrea2009/ganesha_exporter
+module github.com/cloudian/ganesha_exporter
 
 go 1.12
 
