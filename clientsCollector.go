@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/handrea2009/ganesha_exporter/dbus"
+	"github.com/cloudian/ganesha_exporter/dbus"
 	"github.com/prometheus/client_golang/prometheus"
 	"gopkg.in/alecthomas/kingpin.v2"
 )
